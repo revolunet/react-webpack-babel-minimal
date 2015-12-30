@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "name": "Ukulele Tenor",
+    "price": 219
+},{
+    "id": 2,
+    "name": "Bass Guitar",
+    "price": 359
+},{
+    "id": 3,
+    "name": "Saxophone",
+    "price": 1990
+},{
+    "id": 4,
+    "name": "Harmonica",
+    "price": 9
+}]

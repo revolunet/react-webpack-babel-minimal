@@ -13,6 +13,8 @@
   "author": "Julien Bouquillon <julien@revolunet.com> (http://twitter.com/revolunet)",
   "license": "MIT",
   "dependencies": {
+    "async-props": "0.2.2",
+    "axios": "0.8.1",
     "history": "^1.17.0",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
@@ -25,6 +27,8 @@
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
     "css-loader": "0.23.1",
+    "json-loader": "0.5.4",
+    "raw-loader": "0.5.1",
     "react-transform-catch-errors": "^1.0.1",
     "react-transform-hmr": "1.0.1",
     "redbox-react": "^1.2.0",
