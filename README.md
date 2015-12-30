@@ -1,22 +1,22 @@
-# react-webpack-babel-basic
+# react-webpack-babel-minimal
 
-Yet another basic boilerplate for the react stack :)
+Yet another minimal boilerplate for the react stack :)
 
 Simple and customisable
 
 ### Includes :
 
  - Babel ES6 stage 0
- - react, react-router
- - webpack hot reload (hmr)
- - build
+ - React, react-router
+ - Webpack hot reload (hmr)
+ - Build
 
 Comes with a basic react-router example.
 
 ### Install
 
 ```sh
-git clone https://github.com/revolunet/react-webpack-babel-basic.git my-project
+git clone https://github.com/revolunet/react-webpack-babel-minimal.git my-project
 cd my-project
 rm -rf .git && git init
 npm i
